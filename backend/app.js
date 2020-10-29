@@ -37,9 +37,4 @@ app.use(helmet());
 
 app.use(bodyParser.json());
 
-
-
-
-
-
 module.exports = app; 
